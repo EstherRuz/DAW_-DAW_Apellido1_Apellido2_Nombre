@@ -7,6 +7,7 @@ Este pluguin nos da información de la configuración del servidor web apache.
 
 ## 2. Oculta la versión del sistema y sistema de apache.
 
+![img](/img2.png)
 
 ## 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el nombre private. Permite que la carpeta public se visualice y el resto de las carpetas que se creen, incluyendo private, no se muestren. A continuación, puede observar como se debe de mostrar la carpeta public:
 
