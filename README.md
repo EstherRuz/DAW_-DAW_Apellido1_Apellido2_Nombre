@@ -1,7 +1,7 @@
 # DAW_-DAW_Apellido1_Apellido2_Nombre
 ## 1. Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin.
 
-![img](/Captura de pantalla 2022-10-26 122439.png)
+![img](/img.png)
 
 
 ## 2. Oculta la versión del sistema y sistema de apache.
