@@ -3,6 +3,7 @@
 
 ![img](/img.png)
 
+Este pluguin nos da información de la configuración del servidor web apache.
 
 ## 2. Oculta la versión del sistema y sistema de apache.
 
