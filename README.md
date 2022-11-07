@@ -17,8 +17,10 @@ Carpeta public:
 
 ## 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar el archivo .htacess para implementarlo.
 
-
+![img](/img4.png)
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
 
-## 6. (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias externas.
+
+
+
