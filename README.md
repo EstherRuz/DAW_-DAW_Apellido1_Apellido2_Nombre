@@ -12,9 +12,12 @@ Este pluguin nos da información de la configuración del servidor web apache.
 ## 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el nombre private. Permite que la carpeta public se visualice y el resto de las carpetas que se creen, incluyendo private, no se muestren. A continuación, puede observar como se debe de mostrar la carpeta public:
 
 Carpeta public:
+
 ![img](/img3.png)
 
 ## 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar el archivo .htacess para implementarlo.
+
+
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
 
