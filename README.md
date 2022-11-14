@@ -21,6 +21,6 @@ Carpeta public:
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
 
-
+![img](/img5.png)
 
 
